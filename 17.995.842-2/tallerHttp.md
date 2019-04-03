@@ -17,4 +17,9 @@ Taller 1 HTTP
     - OPTIONS: Es un método que describe las opciones de comunicación con el recurso objetivo.
     - PUT: Método que reemplaza todas las representaciones del recurso objetivo con el contenido enviado.
     - DELETE: Elimina todas las representaciones del recurso objetivo, dada una URL.
-  - 
+  - Header: El campo header de una petición http, provee información requerida por la petición, respuesta o sobre el objeto enviado en el
+  cuerpo del mensaje.
+  - Accept: La cabecera de petición Accept, puede ser usado para especificar ciertos tipos de medios, compatibles con la respuesta.
+  También permite el listado de múltiples tipos de medios.
+  - Accept-Charset: Éste campo puede ser usado para indicar qué set de caractéres son aceptables para la respuesta, También permite
+  el listado de múltiples set de caractéres.
